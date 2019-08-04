@@ -2,7 +2,7 @@
 Build a Responsive Website using CodePen.io app and fulfill the given requirements from freeCodeCamp (https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
 
 
-## View in progress project here: (https://codepen.io/kayouti/full/jzMKEg)
+## View project in progress here: (https://codepen.io/kayouti/full/jzMKEg)
 
 
 ### Requirements
