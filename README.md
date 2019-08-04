@@ -1,4 +1,4 @@
-## View project here: https://codepen.io/kayouti/full/jzMKEg
+## View project here: (https://codepen.io/kayouti/full/jzMKEg)
 
 ### Requirements
 ```markdown
