@@ -1,4 +1,9 @@
-## View project here: (https://codepen.io/kayouti/full/jzMKEg)
+## Introduction
+Build a Responsive Website using CodePen.io app and fulfill the given requirements from freeCodeCamp (https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-tribute-page).
+
+
+## View in progress project here: (https://codepen.io/kayouti/full/jzMKEg)
+
 
 ### Requirements
 ```markdown
@@ -18,6 +23,7 @@
 1. The <img> element should responsively resize, relative to the width of its parent element, without exceeding its original size.
 2. The <img> element should be centered within its parent element.
 ```
+##
 
 ### Image Credits
 Img1 - Valerie WINCKLER/Gamma-Rapho via Getty Images
