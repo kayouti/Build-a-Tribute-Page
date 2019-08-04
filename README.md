@@ -1,3 +1,4 @@
-## Build a Tribute Page
-Responsive Web Design Project 1
-<br> <br>Img1 by Valerie WINCKLER/Gamma-Rapho via Getty Images
+## View project here: https://codepen.io/kayouti/full/jzMKEg
+
+<h3>Credits</h3>
+Img1 - Valerie WINCKLER/Gamma-Rapho via Getty Images
