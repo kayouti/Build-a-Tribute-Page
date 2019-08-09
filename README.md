@@ -30,5 +30,5 @@ here: (https://codepen.io/kayouti/full/jzMKEg)
 ##
 
 ### Image Credits
-Img1 - Valerie WINCKLER/Gamma-Rapho via Getty Images
+Img - Valerie WINCKLER/Gamma-Rapho via Getty Images
 
