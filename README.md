@@ -3,7 +3,7 @@ Build a Responsive Website using CodePen.io app and fulfill the given requiremen
 
 
 ## View project in progress 
-here: (https://kayouti.github.io/Build-a-Tribute-Page/) a href="https://kayouti.github.io/Build-a-Tribute-Page/" target="_blank">https://kayouti.github.io/Build-a-Tribute-Page/</a>
+here: (https://kayouti.github.io/Build-a-Tribute-Page/)
 or
 here: (https://codepen.io/kayouti/full/jzMKEg)
 
