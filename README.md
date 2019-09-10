@@ -3,8 +3,6 @@ Build a Responsive Website using CodePen.io app and fulfill the given requiremen
 
 
 ## View project
-here: (https://kayouti.github.io/Tribute-Page/)
-or
 here: (https://codepen.io/kayouti/full/jzMKEg)
 
 
